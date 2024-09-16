@@ -1,5 +1,5 @@
 export const one = [
-  { text: "甲子", href: "/tags/甲子/1/" },
+  { text: "甲的", href: "/tags/甲子/1/" },
   { text: "甲戌", href: "/tags/甲戌/1/" },
   { text: "甲午", href: "/tags/甲午/1/" },
 ];

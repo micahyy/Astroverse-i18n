@@ -1,5 +1,5 @@
 export const categoryMapping: Record<string, string> = {
-  天干: "one",
+  我的: "one",
   地支: "two",
   阴阳: "three",
 };

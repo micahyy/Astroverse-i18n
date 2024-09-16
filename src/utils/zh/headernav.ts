@@ -1,5 +1,5 @@
 export const one = {
-  text: "天干",
+  text: "妈的",
   href: "/category/天干/1/",
 };
 
